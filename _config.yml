@@ -1,0 +1,28 @@
+name: Matt Matos
+favicon: null
+layout_spectrum: 0.9012373227160424
+typography_spectrum: 0.2799786275718361
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.0757090572733432
+  lightness: 0.9273440146353096
+  saturation: 0.9185811735223979
+  rhythmicContrast: 0.23631562292575836
+purpose: []
